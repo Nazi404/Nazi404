@@ -11,21 +11,21 @@ Nazi404 is a brand 🤙🎭<br>We are the unseen. We speak truth in silence.<br>
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anon-404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anon-404&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anon-404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=18)
+![](https://github-readme-stats.vercel.app/api?username=Nazi404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nazi404&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazi404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=18)
 
 ### 🏆 github profile trophy
-![](https://github-profile-trophy.vercel.app/?username=Anon-404&theme=nord)
+![](https://github-profile-trophy.vercel.app/?username=Nazi404&theme=nord)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anon-404&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Nazi404&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anon-404&icon=0&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Nazi404&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
