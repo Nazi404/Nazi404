@@ -1,7 +1,6 @@
 # 💫 Nazi404🎭:
 Nazi404 is a brand 🤙🎭<br>We are the unseen. We speak truth in silence.<br>We stand for freedom. We stand for truth.<br> 
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/unknown.Anon404) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anon404_0?igshid=MTNiYzNiMzkwZA==) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/blackninjab467) 
 
