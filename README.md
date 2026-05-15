@@ -10,4 +10,4 @@ Nazi404 is a brand 🤙🎭<br>We are the unseen. We speak truth in silence.<br>
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Nazi404&show_icons=true&theme=dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Nazi404&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nazi404&layout=compact&theme=dark&langs_count=21)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nazi404&layout=compact&theme=dark&langs_count=20)
